@@ -17,7 +17,7 @@ I am a passionate and enthusiastic Computer Science and Engineering undergraduat
 
 **Bachelor of Technology in Computer Science and Engineering**  
 *Kalasalingam Academy of Research and Education, Tamilnadu (2022 – 2026)*  
-**CGPA:** 9.15
+**CGPA:** 9.11
 
 **Class XII – Board of Intermediate Education**  
 *Sasi Junior College, Visakhapatnam, Andhra Pradesh (2020 – 2022)*  
@@ -31,9 +31,8 @@ I am a passionate and enthusiastic Computer Science and Engineering undergraduat
 
 ## 🛠️ Skills
 
-**Technical Skills:** JavaScript, Java, SQL, Python, HTML, CSS  
-**Frameworks:** React.js, Node.js, Express.js  
-**Tools:** Visual Studio Code, XAMPP, phpMyAdmin  
+**Technical Skills:**  Python, Java, SQL, Machine Learning    
+**Software Tools:** Visual Studio Code, XAMPP, phpMyAdmin  
 **Soft Skills:** Problem Solving, Communication, Time Management, Team Work
 
 ---
